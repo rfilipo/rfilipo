@@ -1,10 +1,8 @@
-### Hi there 👋
-
 🔭 I’m currently working on
 
 # Kobkob
 dialogue with the future
-
+![Kobkob](http://kobkob.org/img/marcas.jpg)
 <!--
 **rfilipo/rfilipo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
