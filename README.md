@@ -3,8 +3,6 @@
 
                       Ricardo Filipo
 
-__President at Kobkob, LPI Channel Partner at Linux Professional Institute__
-
 Talks about perl, linux, devops,javascript, and leadership
 
 __Orlando, Florida, United States__
