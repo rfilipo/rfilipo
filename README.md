@@ -3,7 +3,7 @@
 
                       Ricardo Filipo
 
-Talks about perl, linux, devops,javascript, and leadership
+Talks about perl, linux, devops, javascript, and leadership
 
 __Orlando, Florida, United States__
 
