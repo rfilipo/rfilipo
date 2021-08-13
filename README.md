@@ -1,5 +1,4 @@
 
-![Kobkob](https://kobkob.org/)
 
                       Ricardo Filipo
 
