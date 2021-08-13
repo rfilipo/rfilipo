@@ -1,5 +1,5 @@
 
-![Kobkob](https://media-exp1.licdn.com/dms/image/C4D16AQGjplb6X-Ah7w/profile-displaybackgroundimage-shrink_200_800/0/1626988489115?e=1632355200&v=beta&t=btXqNTSHAVF8LMvD2MES9obMVz0pZiy3vADjgBCPGVo)
+![Kobkob](https://kobkob.org/)
 
                       Ricardo Filipo
 
